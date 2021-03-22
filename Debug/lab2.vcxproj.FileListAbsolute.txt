@@ -1,0 +1,2 @@
+C:\Users\ImDea\OneDrive\Pulpit\TPO\lab2\Debug\lab2.exe
+C:\Users\ImDea\OneDrive\Pulpit\TPO\lab2\Debug\lab2.pdb
